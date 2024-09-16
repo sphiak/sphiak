@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Sophia Keziah 🌱</h1>
+<h1 align="center">Heya! I'm Sophia 🌱</h1>
 <h3 align="center">Passionate computer science student from the Philippines with a love for data, code, and tech. </h3>
 
 <img align="right" alt="cat" width="300" height="300" src="https://th.bing.com/th/id/R.245f521ebb6f18153490587f70492f4d?rik=ZJfuEplX6AJLAw&riu=http%3a%2f%2f24.media.tumblr.com%2f245f521ebb6f18153490587f70492f4d%2ftumblr_mmm85kOfvj1s8f329o1_250.gif&ehk=%2bcywEluBWpGjbhZIcyHjqenSpGFqmes1qiQ8V7xLS%2bY%3d&risl=&pid=ImgRaw&r=0">
