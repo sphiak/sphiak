@@ -1,4 +1,4 @@
-<h1 align="left">Hi! I'm Sophie 🩷</h1>
+<h1 align="left">Hi! I'm Sophie </h1>
 <!-- <h3 align="center">another bio</h3> -->
 
 <!-- readme-typing-svg -->
